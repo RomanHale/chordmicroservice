@@ -11,4 +11,5 @@ B. To programmatically RECEIVE data from the micorservice I implemented, open a 
             chords_in_user_key = infile.read()
             infile.close()
 
-C. ...Diagram to be pasted here...
+C.![diagram](https://github.com/RomanHale/chordmicroservice/assets/59492487/4ad57086-72ed-4cbf-b107-b2a9332325c5)
+
